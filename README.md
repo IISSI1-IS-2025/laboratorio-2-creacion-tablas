@@ -284,7 +284,7 @@ Se le proporcionan además dos scripts:
 
 ### Ejercicio 1
 
-Realice el modelo conceptual. Puede usar draw.io o StarUML
+Realice el modelo conceptual. Puede usar draw.io o PlantUML
 
 ### Ejercicio 2
 
